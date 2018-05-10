@@ -1,0 +1,2 @@
+# beginningGit
+just testing Git
